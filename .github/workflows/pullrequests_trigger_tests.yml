@@ -14,4 +14,4 @@ jobs:
 
     steps:
     - name: echo secrets
-      run: echo ${{ SECRET1 }}
+      run: echo $SECRET1
